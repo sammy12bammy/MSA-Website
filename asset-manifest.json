@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MSA-Website/static/css/main.6c6c0146.css",
+    "main.js": "/MSA-Website/static/js/main.ce8f399c.js",
+    "index.html": "/MSA-Website/index.html",
+    "main.6c6c0146.css.map": "/MSA-Website/static/css/main.6c6c0146.css.map",
+    "main.ce8f399c.js.map": "/MSA-Website/static/js/main.ce8f399c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c6c0146.css",
+    "static/js/main.ce8f399c.js"
+  ]
+}
