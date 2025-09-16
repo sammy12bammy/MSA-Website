@@ -1,4 +1,10 @@
 import React from 'react';
+/**
+ * Founder Commitment Component
+ * 
+ * Sample quote section highlighting the company's founder-first approach.
+ * Will probably remove this section later.
+ */
 
 const FounderCommitment = () => {
   return (
