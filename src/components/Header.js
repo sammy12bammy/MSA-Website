@@ -57,7 +57,7 @@ const Header = () => {
         {/* Logo section - left side of navigation */}
         <div className="logo">
           <img
-            src="/MSA-Logo-Cropped.png"
+            src="/MSA-Website/MSA-Logo-transparent.png"
             alt="Morrison Street Advisors Logo"
             className="logo-image"
             width="40"
