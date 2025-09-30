@@ -42,19 +42,11 @@ const Hero = () => {
           
           {/* Call-to-action button group */}
           <div className="hero-cta">
-            
-            {/* Primary CTA - likely the main conversion goal */}
-            <button
-              onClick={() => scrollToSection('contact')}
-              className="btn btn-primary"
-            >
-              Share a venture
-            </button>
-            
-            {/* Secondary CTA - for users who want to learn more first */}
+                   
+            {/* CTA - for users who want to learn more first */}
             <button
               onClick={() => scrollToSection('focus')}
-              className="btn btn-secondary"
+              className="btn btn-primary"
             >
               See our focus
             </button>
