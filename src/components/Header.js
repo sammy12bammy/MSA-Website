@@ -83,10 +83,10 @@ const Header = () => {
             </button>
           </li>
           
-          {/* Navigation item: Approach section */}
+          {/* Navigation item: About Us page */}
           <li>
-            <button onClick={() => scrollToSection('approach')}>
-              Approach
+            <button onClick={() => window.location.href = '/MSA-Website/aboutus.html'}>
+              About Us
             </button>
           </li>
           

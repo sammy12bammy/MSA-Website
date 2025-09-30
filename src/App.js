@@ -19,6 +19,7 @@ const App = () => {
       <FounderCommitment />
       <Footer />
     </div>
+    
   );
 };
 

@@ -49,9 +49,7 @@ const Footer = () => {
             {/* Contact Information Section */}
             {/* Note: Contains placeholder contact info that needs to be updated */}
             <FooterSection title="Contact">
-              <p>contact email</p>
-              <p>Houston, Texas?</p>
-              <p>phone number</p>
+              <p>info@msadvisors.services</p>
             </FooterSection>
             
             {/* External Links and Social Media Section */}
@@ -59,9 +57,8 @@ const Footer = () => {
               {/* LinkedIn company page */}
               <a href="https://linkedin.com/company/morrison-street-advisors" aria-label="LinkedIn">LinkedIn</a><br />
               {/* Internal site pages */}
-              <a href="/about" aria-label="About Us">About Us</a><br />
-              <a href="/careers" aria-label="Careers">Careers</a><br />
-              <a href="/privacy" aria-label="Privacy Policy">Privacy Policy</a>
+              <a href="/MSA-Website/aboutus.html" aria-label="About Us">About Us</a><br />
+              <a href="/MSA-Website/privacy.html" aria-label="Privacy Policy">Privacy Policy</a>
             </FooterSection>
             
             {/* Services Section - Mix of internal anchors and external link */}
@@ -70,8 +67,6 @@ const Footer = () => {
               <a href="#what-we-do" aria-label="Strategic Investment">Strategic Investment</a><br />
               <a href="#what-we-do" aria-label="Venture Incubation">Venture Incubation</a><br />
               <a href="#what-we-do" aria-label="Technical Execution">Technical Execution</a><br />
-              {/* External link to separate MSA Services website */}
-              <a href="https://msaservices.com" aria-label="MSA Services">MSA Services</a>
             </FooterSection>
             
           </div>
